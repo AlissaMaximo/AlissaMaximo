@@ -9,3 +9,5 @@ I'm Alissa! I'm a Technologist in Systems Analysis as well as Development and Fu
 - My current short-term goal is to secure a job as a developer! As for long-term, to specialize in **Information Security**.
 
 ---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlissaMaximo&show=prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
