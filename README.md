@@ -10,4 +10,9 @@ I'm Alissa! I'm a Technologist in Systems Analysis as well as Development and Fu
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlissaMaximo&show=prs_merged,prs_merged_percentage&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=AlissaMaximo&show=prs_merged,prs_merged_percentage&show_icons=true&theme=ambient_gradient" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissaMaximo&layout=donut" />
+</a>
