@@ -2,15 +2,15 @@
 
 I'm Alissa! I'm a Technologist in Systems Analysis as well as Development and Full Stack Web Developer graduated in the online school Trybe. Am currently looking for a job in the IT field!
 
-- What made me choose the field was my affinity with computers and everything related combined with my desire to help people.
+- ＼＿ﾍ(◕‿◕✰) What made me choose the field was my affinity with computers and everything related combined with my desire to help people.
 
-* I love listening to music, mostly utaites.
+* I love listening to music, mostly utaites. ♬♫♪◖(´▽`)◗♪♫♬
 
-- I have had experience with the following tools: Linux (Ubuntu), HTML, CSS, **Javascript**, **React**, RTL, **Redux**, Docker, **MySQL**, MongoDB, Python, Sequelize and **TypeScript**. I've had contact with C#, **Java** and PHP. I know a bit of Node.js but I'm studying to grasp it more!
+- ᕦ(ò_óˇ)ᕤ I have had experience with the following tools: Linux (Ubuntu), HTML, CSS, **Javascript**, **React**, RTL, **Redux**, Docker, **MySQL**, MongoDB, Python, Sequelize and **TypeScript**. I've had contact with C#, **Java** and PHP. I know a bit of Node.js but I'm studying to grasp it more!
+  
+* I'm familiarized with the **Scrum, Kanban and XP methods**. (*•̀ᴗ•́*)و ̑̑
 
-* I'm familiarized with the **Scrum, Kanban and XP methods**.
-
-- My current short-term goal is to secure a job as a developer! As for long-term, to specialize in **Information Security**.
+- (つ▀¯▀)つ My current short-term goal is to secure a job as a developer! As for long-term, to specialize in **Information Security**.
 
 ---
 
